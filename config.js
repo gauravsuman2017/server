@@ -24,7 +24,7 @@ module.exports = {
       // The email address for your application
       user: "admin@kkjournals.com",
       // Your app email password
-      pass: "0651@kkjournals2014g#$"
+      pass: "0651@Ranchiad"
     },
 
     tls: {
